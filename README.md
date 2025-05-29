@@ -8,12 +8,12 @@ I specialize in creating dynamic, responsive, and high-performance websites. I e
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: PHP, JavaScript, HTML, CSS, SQL
-- **Frameworks**: Laravel, CodeIgniter, ReactJS
-- **Databases**: MySQL, MongoDB
+- **Languages**: PHP, JavaScript, HTML, CSS, SQL,python
+- **Frameworks**: Laravel, CodeIgniter, ReactJS,Vue.js, django 
+- **Databases**: MySQL, MongoDB,postgresql
 - **Tools**: Git, GitHub, Docker, Apache, Nginx
 - **Platforms**: WordPress, Magento, BigCommerce
-- **Others**: AJAX, jQuery, JSON, Bootstrap, SASS, WordPress Theme Development
+- **Others**: AJAX, jQuery, JSON, Bootstrap, SASS, WordPress Theme & plugin Development, 
 
 ---
 
