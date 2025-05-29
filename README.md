@@ -1,24 +1,21 @@
 # Shakil Hossain | Senior Web Developer
 
 Hello! I'm **Shakil Hossain**, a passionate **Senior Web Developer** with over 6 years of experience in building scalable web applications using technologies like **PHP**, **WordPress**, **Laravel**, **JavaScript**, **MySQL**, and **ReactJS**. 
-
 I specialize in creating dynamic, responsive, and high-performance websites. I enjoy tackling challenging problems and continuously improving my technical skills.
 
 ---
 
-## 🔧 Technologies & Tools
-
-- **Languages**: PHP, JavaScript, HTML, CSS, SQL,python
-- **Frameworks**: Laravel, CodeIgniter, ReactJS,Vue.js, django 
-- **Databases**: MySQL, MongoDB,postgresql
-- **Tools**: Git, GitHub, Docker, Apache, Nginx
-- **Platforms**: WordPress, Magento, BigCommerce
-- **Others**: AJAX, jQuery, JSON, Bootstrap, SASS, WordPress Theme & plugin Development, 
+## Technologies & Tools
+- **Languages**: PHP, JavaScript, Python, HTML, CSS, SQL
+- **Frameworks & Libraries**: Laravel, CodeIgniter, Django, React.js, Vue.js
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Tools & Technologies**: Git, GitHub, Docker, Apache, Nginx
+- **CMS & E-commerce Platforms**: WordPress, Magento, BigCommerce, Shopify, PrestaShop
+- **Other Skills**: AJAX, jQuery, JSON, Bootstrap, SASS, WordPress Theme & Plugin Development
+- **Operating Systems**: Linux (Ubuntu, CentOS), Windows
 
 ---
-
-## 🚀 Projects & Experience
-
+##  Projects & Experience
 ### **Height Clearance Automation**
 - **Description**: Developed an automated system for height clearance management. 
 - **Role**: Worked as a team member to implement system functionality and optimize the process.
@@ -52,7 +49,7 @@ I specialize in creating dynamic, responsive, and high-performance websites. I e
 
 ---
 
-## 🌱 Current Learning & Goals
+## Current Learning & Goals
 
 - Diving deeper into **ReactJS** and **Node.js**.
 - Learning more about **GraphQL** and **serverless architecture**.
@@ -60,7 +57,7 @@ I specialize in creating dynamic, responsive, and high-performance websites. I e
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 - **Email**: [shakilaust81@gmail.com](mailto:shakilaust81@gmail.com)
 - **LinkedIn**: [Shakil Hossain LinkedIn](https://www.linkedin.com/in/shakilhossain)
